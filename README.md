@@ -14,7 +14,7 @@ Can yield to interesting and actually nice-sounding results!
 
 
 ## PREREQUISITES
-- Debian with sox and imagemagick ("apt-get install" them) 
+- Bash with sox and imagemagick ("apt-get install" them) 
 - "input.wav" file to be processed
 - some way to retrieve resulting WAV and BMP files (scp or Filezilla maybe?)
 
